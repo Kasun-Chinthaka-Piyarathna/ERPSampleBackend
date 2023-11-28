@@ -1,6 +1,8 @@
 ## ABC Company ERP Sample - Backend Implementation
 
-### The backend was written using Spring Boot. MySql was used as the database. 
+### The backend was written using Spring Boot, JPA, Hibernate, and MySql.
+
+Sample UI repository can be found here - https://github.com/Kasun-Chinthaka-Piyarathna/ERPSampleUI
 
 ### How can set up the repo
 
